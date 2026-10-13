@@ -6,7 +6,7 @@
 
 Scrape public Reddit subreddits, posts, comments, search results and user posts with Python. No login, no API key, one file.
 
-> **Need this at scale?** The script is for learning and small jobs. The [ToolzerHub Reddit API](https://toolzerhub.com/apis/reddit?utm_source=github&utm_medium=readme&utm_campaign=reddit-scraper) returns the same data and more (user comments, user profiles and trophies, comment replies, popular and home feeds, search suggestions and trending searches) as JSON from any server, with no blocks to handle. 100 free credits a month, no card needed.
+> **Need this at scale?** The script is for learning and small jobs. The [ToolzerHub Reddit API](https://toolzerhub.com/apis/reddit?utm_source=github&utm_medium=readme&utm_campaign=reddit-scraper) returns the same data and more (full comment trees, user profiles with karma, user comments, r/popular) as JSON from any server, with no blocks to handle. 100 free credits a month, no card needed.
 
 ## What it scrapes
 
@@ -228,7 +228,7 @@ The script is for learning and small jobs. At scale you run into blocks, changin
 
 | | This script | ToolzerHub API |
 |---|---|---|
-| Data | Subreddit posts, subreddit details, one post with first comments, post search, a user's posts | 33 endpoints, including user comments, user profiles and trophies, comment replies, popular and home feeds, search suggestions, trending searches |
+| Data | Subreddit posts, subreddit details, one post with first comments, post search, a user's posts | 9 endpoints at 1 credit each: subreddit posts and info, search, post details, full comment trees, r/popular, user profiles, posts and comments |
 | Blocks and proxies | Your problem | Handled |
 | When Reddit changes | Wait for a fix here | Fixed on our side |
 | Cost | Free, plus your proxy | 100 free credits a month, then from $0.99 per 1,000 calls |
