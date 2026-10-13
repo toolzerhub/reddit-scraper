@@ -211,6 +211,8 @@ Full outputs for every command are in [examples/](examples).
 2. Reddit's site fills its feeds, comment lists and search with small HTML pages from `/svc/shreddit/`. The data sits in the attributes of elements such as `<shreddit-post>` and `<shreddit-comment>`. `post` also reads the post's own page for the text and flags.
 3. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) reads those attributes and the script cleans them into the fields above. To get more than one page, it builds the next-page cursor from the last post id.
 
+A longer walkthrough with timed runs and a CSV example: [Reddit scraper in Python](https://toolzerhub.com/blog/reddit-scraper-python?utm_source=github&utm_medium=readme&utm_campaign=reddit-scraper).
+
 ## Limits
 
 - Public data only. Private and banned communities are not available.
