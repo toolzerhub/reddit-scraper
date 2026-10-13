@@ -1,0 +1,66 @@
+{
+  "id": "2qk6m",
+  "name": "nasa",
+  "url": "https://www.reddit.com/r/nasa/",
+  "description": "r/NASA is for anything related to the National Aeronautics and Space Administration; the latest news, events, current and future missions, and more.",
+  "weekly_visitors": 45980,
+  "weekly_contributions": 346,
+  "created_at": "2008-07-17T00:46:50+00:00",
+  "rules": [
+    {
+      "number": 1,
+      "title": "All submissions must be related to NASA",
+      "description": "The focus of r/NASA is primarily around NASA itself and the work it does. Submissions and comments should reflect that focus."
+    },
+    {
+      "number": 2,
+      "title": "Image Content and Sourcing",
+      "description": "All images must be directly related to NASA. Prohibited: Drawings, memes, screenshots, Legos, non-NASA astrophotography/personal photography. Identification requests (“What is this?”) are not allowed. Sourcing: Use direct links to the original NASA source or provide a source in the comments. Certain exceptions are made on Show Me Sunday."
+    },
+    {
+      "number": 3,
+      "title": "Video submissions must come from an official NASA or related account",
+      "description": "Video submissions must come from an official NASA or related account. Video submissions must come from an official source (i.e. NASA or ESA). Other content may be approved at the discretion of moderators. Links to the “NASA live stream - Earth From Space LIVE Feed | Incredible ISS live stream of earth from space” or similar videos (including UFO videos, etc.) will be removed."
+    },
+    {
+      "number": 4,
+      "title": "No fundraising/merchant/petition links",
+      "description": "Posts/comments linking to fundraising, merchant, or petition sites (e.g. kickstarter, Amazon, change.org, etc.) are not permitted."
+    },
+    {
+      "number": 5,
+      "title": "No clickbait / conspiracy theories or \"what if\" hypotheticals",
+      "description": "Clickbait, conspiracy theories, \"what if?\" hypotheticals and similar posts will be removed."
+    },
+    {
+      "number": 6,
+      "title": "No duplicate posts of the same event/subject",
+      "description": "Duplicate posts of the same event/subject will be removed."
+    },
+    {
+      "number": 7,
+      "title": "Content Restrictions (No Spam, Paywalls, or Opinion Pieces)",
+      "description": "To maintain high-quality discussion, the following types of links are not permitted: Blogspam/Scraped Content: Links to websites that primarily repost, scrape, or steal content from other sources. Paywalled Content: Links to articles or sites that require a payment, subscription, or login to view the full content. Opinion Articles: Links to articles that are primarily based on personal opinion rather than verifiable facts or analysis."
+    },
+    {
+      "number": 8,
+      "title": "No low effort posts",
+      "description": "Low-effort posts are not permitted. Examples are: things which can be easily found with an Internet search (e.g., “When did Apollo 11 launch?”), those generated using AI (Large Language Models) or \"how much is this worth\"."
+    },
+    {
+      "number": 9,
+      "title": "All submissions must be Safe For School",
+      "description": "All posts and comments must use \"Safe For School\" language and content."
+    },
+    {
+      "number": 10,
+      "title": "Be kind to your fellow redditor",
+      "description": "Please keep all comments civil. Personal attacks, insults, etc. against any person or group, regardless of whether they are participating in a conversation, are prohibited."
+    },
+    {
+      "number": 11,
+      "title": "Everything is up to the discretion of the moderators",
+      "description": "Notwithstanding any other rule of r/nasa, moderators have the complete discretion to remove a post or comment at any time for reasons including but not limited to: violation of Reddit rules, the need to maintain a positive atmosphere, trolling, or any reason that violates the spirit if not the letter of any r/nasa rules."
+    }
+  ]
+}
