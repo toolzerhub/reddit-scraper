@@ -257,6 +257,8 @@ No. The script reads the first batch of comments and a user's posts. The [Toolze
 - [threads-scraper](https://github.com/toolzerhub/threads-scraper): public Threads profiles, posts, replies and search
 - [linkedin-scraper](https://github.com/toolzerhub/linkedin-scraper): public LinkedIn jobs, companies, profiles and posts
 - [google-maps-scraper](https://github.com/toolzerhub/google-maps-scraper): public Google Maps places, details and reviews
+- [facebook-ad-library-scraper](https://github.com/toolzerhub/facebook-ad-library-scraper): public Meta Ad Library ads by keyword or advertiser, with their videos and images
+- [zillow-scraper](https://github.com/toolzerhub/zillow-scraper): public Zillow listings, property details, Zestimates and price history
 
 ## Legal and responsible use
 
